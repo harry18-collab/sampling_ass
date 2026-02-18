@@ -1,4 +1,6 @@
 Sampling Techniques for Imbalanced Datasets
+
+
 -> Project Objective
 
 The objective of this project is to understand the importance of sampling techniques in handling imbalanced datasets and to analyze how different sampling strategies impact the performance of various machine learning models.
